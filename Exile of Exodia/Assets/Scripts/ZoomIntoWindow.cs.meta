@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 49f92616719ff46428a20c61bec120fd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Window: {instanceID: 0}
+  - Player: {instanceID: 0}
+  - mainCam: {instanceID: 0}
+  - targetCam: {instanceID: 0}
+  - Canvas: {instanceID: 0}
+  - InstCanvas: {fileID: 100000, guid: 932e77158e189488f912b670519ae527, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
